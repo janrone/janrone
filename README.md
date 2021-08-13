@@ -10,7 +10,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![](https://github-readme-stats-gray-kappa.vercel.app/api?username=janrone&count_private=true&show_icons=true)](https://www.janrone.allone.top)
+[![Janrone's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=janrone&count_private=true&show_icons=true)](https://www.janrone.allone.top)
 
 
 <!--
