@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+"📚 Lifelong Learner"
+"👨‍💻 Being Full-Stack Developer"
+"💴 ETF Trader"
+"🌏 Digital World Believer"
+
 <!--
 **janrone/janrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
