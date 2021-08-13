@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there 👋 ，I‘m Janrone.
 
-"📚 Lifelong Learner"
+-"📚 Lifelong Learner"
+
 "👨‍💻 Being Full-Stack Developer"
+
 "💴 ETF Trader"
+
 "🌏 Digital World Believer"
 
 <!--
