@@ -1,6 +1,6 @@
 ### Hi there 👋 ，I‘m Janrone.
 
--"📚 Lifelong Learner"
+"📚 Lifelong Learner"
 
 "👨‍💻 Being Full-Stack Developer"
 
