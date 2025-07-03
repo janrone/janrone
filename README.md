@@ -8,6 +8,12 @@
 
 "🌏 Digital World Believer"
 
+## Skill
+- 熟悉传统和现代 Android开发范式和流程
+- 熟悉 Java，Kotlin，JS， 了解 Node，Python， C#， C
+- 熟悉 Vide Coding 
+
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 [![Janrone's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=janrone&count_private=true&show_icons=true)](https://janrone.allone.top)
