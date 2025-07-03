@@ -9,9 +9,13 @@
 "🌏 Digital World Believer"
 
 ## Skill
-- 熟悉传统和现代 Android开发范式和流程
-- 熟悉 Java，Kotlin，JS， 了解 Node，Python， C#， C
-- 熟悉 Vide Coding 
+
+- 熟悉 Vide Coding
+- 熟悉传统和现代 Android 开发范式和流程
+- 熟悉 iOS 开发， 小程序开发
+- 熟悉 Java，Kotlin，JS，Swift 了解 Node，Python， C#， C
+- Google Play ,Apple Stroe 上架过自己的 APP
+- 良好的产品思维逻辑
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
