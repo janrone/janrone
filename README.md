@@ -18,15 +18,19 @@
 - 良好的产品思维逻辑
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Languages & Stats
 
-[![Janrone's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=janrone&count_private=true&show_icons=true)](https://janrone.allone.top)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SimonAKing&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&rank_icon=github">
 
-## Languages
-[![Janrone's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janrone&layout=compact&hide_border=true&langs_count=10)](https://janrone.allone.top)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janrone&layout=compact&hide_border=true&langs_count=8">
+
 
 
 <!--
+[![Janrone's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janrone&layout=compact&hide_border=true&langs_count=10)](https://janrone.allone.top)
+
+[![Janrone's github stats](https://github-readme-stats.vercel.app/api?username=janrone&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&rank_icon=github)](https://janrone.allone.top)
+
 **janrone/janrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
